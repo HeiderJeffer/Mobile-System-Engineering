@@ -1,6 +1,7 @@
 # Heider Fountain Pen Store, An Open Source and Free Software Project 
 - Android E-Commerce Shopping App  
-- Heider Jeffer 
+- Developer: Heider Jeffer hheider.jeffer@gmail.com hjeffer@unibz.it
+- Supervisor Prof. Romain Robbes
 - GitHub: https://github.com/HeiderJeffer/Heider-Fountain-Pen-Store
 # Thanks
 Big thanks go to Anjan Karmakar for taking time from his busy schedule  for offering his assistance  to developed this project.

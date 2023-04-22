@@ -3,7 +3,7 @@
 - Android E-Commerce Shopping App  
 - Developer: Heider Jeffer hheider.jeffer@gmail.com hjeffer@unibz.it
 - Supervisor Prof. Romain Robbes
-- GitHub: https://github.com/HeiderJeffer/Heider-Fountain-Pen-Store
+- GitHub ([Link](https://github.com/HeiderJeffer/Heider-Fountain-Pen-Store))
 # Thanks
 Big thanks go to Anjan Karmakar for taking time from his busy schedule  for offering his assistance  to developed this project.
 # Heider Fountain Pen Store
